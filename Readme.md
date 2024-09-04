@@ -11,4 +11,8 @@ For Script2.sh
 This is a small Script file for check your computers Node Health.
 After execute this Shell Script you can understand every thing about system.
 
+---------------------------------------------------------------------------------------------
+For  @append.output.sh
+This is a small script fiel for "how to append to the end of the text file."
+
 
