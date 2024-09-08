@@ -16,4 +16,9 @@ For  append.output.sh
 
 This is a small script fiel for "how to append to the end of the text file."
 
+----------------------------------------------------------------------------------------------
+For list_user.sh
+
+This Script will help you to find list of user for particular GitHub account.
+
 
